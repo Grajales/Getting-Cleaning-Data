@@ -22,7 +22,7 @@ library(dplyr)
 library(stringr)
 library(base64)
 #Setting working directory path
-setwd("https://github.com/Grajales/GettingCleaningData.git")
+setwd("https://github.com/Grajales/Getting-Cleaning-Data.git")
 #*****************************
 # Reading all the tables
 #****************************
